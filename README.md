@@ -22,7 +22,8 @@
 ---
 
 ## Скриншот
-![Главное окно](MEGA-Switcher_rY8gKIML2J.png) 
+![Главное окно](MEGA-Switcher_rY8gKIML2J.png)
+![Иконка](app.ico)
 
 ---
 
