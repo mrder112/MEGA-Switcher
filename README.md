@@ -23,6 +23,7 @@
 ---
 ## Скриншот
 ![Главное окно](MEGA-Switcher_rY8gKIML2J.png)
+![video](video.gif)
 ---
 
 ## Быстрый старт
