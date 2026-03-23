@@ -104,7 +104,7 @@ MEGAsync хранит сессию в двух местах:
 
 Каждый аккаунт MEGA имеет уникальный хеш в имени файла базы данных:
 ```
-megaclient_statecache15_dFc0bGludHM1WVUKlaztOWfEUK2rQTrE7KbE.db
+megaclient_statecache15_dFc0bGludHM1WVUKlazt1fsdfsfsdcxcvdsfKbE.db
                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                         Это и есть хеш — уникален для каждой сессии
 ```
