@@ -172,7 +172,7 @@ MEGA-Switcher/
 
 ## Демонстрация
 
-https://github.com/mrder112/MEGA-Switcher/assets/video.mp4
+[![Смотреть видео](https://img.youtube.com)](https://www.youtube.com/watch?v=WWlP_lZeeUE)
 
 > Видеопрезентация: переключение между аккаунтами, трей-меню, экспорт/импорт профилей.
 
