@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Personal profile data — NEVER commit these
+mega_switcher_paths.json
+profiles/
+*.cfg
+*.db
+*.db-wal
+*.db-shm
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Видео — НЕ игнорировать (video.mp4 должен попасть в репозиторий)
+# !video.mp4
