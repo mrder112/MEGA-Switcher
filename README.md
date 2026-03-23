@@ -24,19 +24,7 @@
 ## Скриншот
 
 ```
-┌─────────────────────────────────────┐
-│ M EGA  Account Switcher             │
-├─────────────────────────────────────┤
-│  ACCOUNTS                           │
-│ ▌● Work Account        ACTIVE       │  ← красный акцент
-│   Personal Account                  │
-│   Backup Account                    │
-├─────────────────────────────────────┤
-│ [⚡ Switch to selected account     ] │
-│ [💾 Save current] [✏️ Rename] [🗑️ Del]│
-│ [📤 Export ZIP]   [📥 Import ZIP]   │
-│ ☐ Start with Windows                │
-└─────────────────────────────────────┘
+![Главное окно](MEGA-Switcher_rY8gKIML2J.png) 
 ```
 
 ---
